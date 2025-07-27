@@ -102,7 +102,7 @@ Developing Fruit-Cutter has been a rich learning experience. Here are some key s
 
 This project helps me apply and understand:
 
-- Game development basics
+- Game development using Scratch
 - Real-time event handling
 - Visual logic building
 - Player experience design
@@ -121,14 +121,6 @@ It also demonstrates that simple tools like Scratch can be powerful when used cr
 
 ---
 
-## 💡 Future Goals
-
-- Port this concept to Unity or Godot for enhanced features
-- Add keyboard/touchscreen support
-- Publish a polished version on platforms like Itch.io
-
----
-
 ## 📬 Feedback
 
 Have suggestions or ideas? Feel free to open an issue or start a discussion here on GitHub. I’d love to hear your thoughts!
@@ -143,8 +135,8 @@ This project is licensed under the [MIT License](LICENSE). You're free to remix,
 
 ## 🙌 Acknowledgements
 
-Big thanks to:
+Sincere thanks to:
 - The Scratch team and community
-- The original developers of Fruit Ninja for the inspiration
+- The original developers of Fruit Ninja — Halfbrick Studios, with lead designer Luke Muscat, for the inspiration.
 
 ---
