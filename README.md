@@ -125,12 +125,6 @@ Have suggestions or ideas? Feel free to open an issue or start a discussion here
 
 ---
 
-## 🧾 License
-
-This project is licensed under the [MIT License](LICENSE). You're free to remix, reuse, or build upon it – just give credit.
-
----
-
 ## 🙌 Acknowledgements
 
 Sincere thanks to:
