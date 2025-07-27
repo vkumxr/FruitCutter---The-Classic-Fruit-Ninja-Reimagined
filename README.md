@@ -1,14 +1,12 @@
-# 🍉 FruitCutter – The Classic Fruit Ninja, Reimagined
+<p align="center">
+  <img src="fn.gif" alt="FruitCutter Gameplay">
+</p>
+
+<h1 align="center">🍉 FruitCutter – The Classic Fruit Ninja, Reimagined</h1>
 
 **FruitCutter** is a faithful yet imaginative remake of the iconic mobile game **Fruit Ninja**, built entirely using [Scratch](https://scratch.mit.edu). It is a **work-in-progress** game that brings slicing satisfaction to the desktop in a browser-based, visually programmed format. This project is part of my journey into **game development, visual logic, and interactive design** using the Scratch platform.
 
 🔗 **Play the demo here**: [FruitCutter on Scratch](https://scratch.mit.edu/projects/1197626235)
-
----
-
-<p align="center">
-  <img src="fn.gif" alt="FruitCutter Gameplay">
-</p>
 
 
 ---
